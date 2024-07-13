@@ -664,6 +664,72 @@
             "ext":"./drpy_js/ok资源[资].js"
         },
         {
+            "key": "hipy_js_360影视[官]",
+            "name": "360影视[官](drpy_t3)",
+            "type": 3,
+            "api": "./drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./drpy_js/360影视[官].js"
+        },
+        {
+            "key": "hipy_js_菜狗[官]",
+            "name": "菜狗[官](drpy_t3)",
+            "type": 3,
+            "api": "./drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./drpy_js/菜狗[官].js"
+        },
+        {
+            "key": "hipy_js_奇珍异兽[官]",
+            "name": "奇珍异兽[官](drpy_t3)",
+            "type": 3,
+            "api": "./drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./drpy_js/奇珍异兽[官].js"
+        },
+        {
+            "key": "hipy_js_优酷[官]",
+            "name": "优酷[官](drpy_t3)",
+            "type": 3,
+            "api": "./drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./drpy_js/优酷[官].js"
+        },
+        {
+            "key": "hipy_js_腾云驾雾[官]",
+            "name": "腾云驾雾[官](drpy_t3)",
+            "type": 3,
+            "api": "./drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./drpy_js/腾云驾雾[官].js"
+        },
+        {
+            "key": "hipy_js_百忙无果[官]",
+            "name": "百忙无果[官](drpy_t3)",
+            "type": 3,
+            "api": "./drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./drpy_js/百忙无果[官].js"
+        },
+        {
             "key":"hipy_js_豆瓣[官]",
             "name":"豆瓣[官](drpy_t3)",
             "type":3,
@@ -676,6 +742,82 @@
         }
     ],
     "parses":[
+    {
+      "name": "84jia",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+            ]
+            },
+            "header":{
+                "User-Agent":"Mozilla/5.0"
+            }
+        },
+    {
+      "name": "xm_ihq",
+      "type": 1,
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+          ]
+            },
+            "header":{
+                "User-Agent":"Mozilla/5.0"
+            }
+        },
         {
             "name":"777",
             "url":"https://jx.777jiexi.com/player/?url=",
