@@ -2,7 +2,7 @@
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"homepage": "https://github.com/hjdhnx/hipy-server",
 	"homeLogo": "./img/logo500x200-1.png",
-	"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/custom_spider.jar",
+
 	"sites": [
 		{
 			"key": "hipy_js_豆瓣[官]",
