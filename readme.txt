@@ -4,6 +4,8 @@ https://gh.duckcc.com/https://raw.githubusercontent.com/cqpzq/drpy/main/index.js
 
 https://gh.duckcc.com/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy.json
 
+更新时间20240713
+
 PC:zyplayer 与 Mobile:easybox 通用
 easybox 支持网盘源播放，如阿里土豆。zyplayer暂不支持
 
