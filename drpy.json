@@ -15,17 +15,17 @@
             "ext":"./drpy_js/豆瓣[官].js"
         },
         {
-			"key": "hipy_js_黑狐影院",
-			"name": "黑狐影院(drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/黑狐影院.js"
-		},
-	            {
+            "key":"hipy_js_黑狐影院",
+            "name":"黑狐影院(drpy_t3)",
+            "type":3,
+            "api":"./drpy_libs/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "order_num":0,
+            "ext":"./drpy_js/黑狐影院.js"
+        },
+        {
             "key":"hipy_js_七新电影网",
             "name":"七新电影网(drpy_t3)",
             "type":3,
@@ -36,28 +36,28 @@
             "order_num":0,
             "ext":"./drpy_js/七新电影网.js"
         },
-	    	{
-			"key": "hipy_js_两个BT",
-			"name": "两个BT(drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/两个BT.js"
-		},
         {
-			"key": "hipy_js_干饭影视",
-			"name": "干饭影视(drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/干饭影视.js"
-		},
+            "key":"hipy_js_两个BT",
+            "name":"两个BT(drpy_t3)",
+            "type":3,
+            "api":"./drpy_libs/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "order_num":0,
+            "ext":"./drpy_js/两个BT.js"
+        },
+        {
+            "key":"hipy_js_干饭影视",
+            "name":"干饭影视(drpy_t3)",
+            "type":3,
+            "api":"./drpy_libs/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "order_num":0,
+            "ext":"./drpy_js/干饭影视.js"
+        },
         {
             "key":"hipy_js_旺旺影视",
             "name":"旺旺影视(drpy_t3)",
@@ -443,7 +443,6 @@
             "order_num":0,
             "ext":"./drpy_js/影剧星球.js"
         }
-
     ],
     "lives":[
         {
