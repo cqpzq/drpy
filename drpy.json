@@ -25,7 +25,6 @@
             "order_num":0,
             "ext":"./drpy_js/旺旺影视.js"
         },
-
         {
             "key":"hipy_js_闪雷电",
             "name":"闪雷电(drpy_t3)",
@@ -59,7 +58,6 @@
             "order_num":0,
             "ext":"./drpy_js/新视觉.js"
         },
-
         {
             "key":"hipy_js_鸭奈飞影视",
             "name":"鸭奈飞影视(drpy_t3)",
@@ -478,9 +476,6 @@
             "order_num":0,
             "ext":"./drpy_js/人人影视.js"
         },
-
-
-
         {
             "key":"hipy_js_时光影院",
             "name":"时光影院(drpy_t3)",
@@ -492,7 +487,6 @@
             "order_num":0,
             "ext":"./drpy_js/时光影院.js"
         },
-  
         {
             "key":"hipy_js_天龙影院",
             "name":"天龙影院(drpy_t3)",
@@ -504,7 +498,6 @@
             "order_num":0,
             "ext":"./drpy_js/天龙影院.js"
         },
-  
         {
             "key":"hipy_js_网飞猫[优]",
             "name":"网飞猫[优](drpy_t3)",
@@ -516,14 +509,6 @@
             "order_num":0,
             "ext":"./drpy_js/网飞猫[优].js"
         },
-  
- 
- 
-
-
-
-
-  
         {
             "key":"hipy_js_一起看",
             "name":"一起看(drpy_t3)",
@@ -557,7 +542,6 @@
             "order_num":0,
             "ext":"./drpy_js/影剧星球.js"
         },
-
         {
             "key":"hipy_js_ok资源[资]",
             "name":"ok资源[资](drpy_t3)",
@@ -569,413 +553,6 @@
             "order_num":0,
             "ext":"./drpy_js/ok资源[资].js"
         }
-    ],
-    "parses":[
-        {
-            "name":"777",
-            "url":"https://jx.777jiexi.com/player/?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"8090g",
-            "url":"https://www.8090g.cn/jiexi/?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"ik9",
-            "url":"https://yparse.ik9.cc/index.php?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"杰森",
-            "url":"https://jx.jsonplayer.com/player/?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"阳途",
-            "url":"https://jx.yangtu.top/?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"冰豆",
-            "url":"https://bd.jx.cn/?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"m3u8TV",
-            "url":"https://jx.m3u8.tv/jiexi/?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"听乐",
-            "url":"https://jx.dj6u.com/?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"虾米",
-            "url":"https://jx.xmflv.com/?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"虾米2",
-            "url":"https://jx.xmflv.cc/?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"云析",
-            "url":"https://jx.yparse.com/index.php?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        },
-        {
-            "name":"红狐",
-            "url":"https://player.mrgaocloud.com/player/?url=",
-            "type":0,
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "qq 预告及花絮",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ]
-            },
-            "header":{
-                "User-Agent":"Mozilla/5.0"
-            }
-        }
-    ],
-    "flags":[
-        "imgo",
-        "youku",
-        "qq",
-        "qq 预告及花絮",
-        "iqiyi",
-        "qiyi",
-        "fun",
-        "letv",
-        "leshi",
-        "sohu",
-        "tudou",
-        "xigua",
-        "cntv",
-        "1905",
-        "pptv",
-        "mgtv",
-        "wasu",
-        "bilibili",
-        "renrenmi"
     ],
     "lives":[
         {
