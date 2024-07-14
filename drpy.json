@@ -246,28 +246,6 @@
             "ext":"./drpy_js/速播小屋.js"
         },
         {
-            "key":"hipy_js_神仙影视",
-            "name":"神仙影视(drpy_t3)",
-            "type":3,
-            "api":"./drpy_libs/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "order_num":0,
-            "ext":"./drpy_js/神仙影视.js"
-        },
-        {
-            "key":"hipy_js_白嫖者联盟",
-            "name":"白嫖者联盟(drpy_t3)",
-            "type":3,
-            "api":"./drpy_libs/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "order_num":0,
-            "ext":"./drpy_js/白嫖者联盟.js"
-        },
-        {
             "key":"hipy_js_星辰CT",
             "name":"星辰CT(drpy_t3)",
             "type":3,
