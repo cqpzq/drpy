@@ -205,6 +205,17 @@
 			"order_num": 9999
 		},
 		{
+			"key": "hipy_js_310直播[球]",
+			"name": "310直播[球](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/310直播[球].js"
+		},
+		{
 			"key": "hipy_js_348电影网",
 			"name": "348电影网(drpy_t3)",
 			"type": 3,
@@ -585,6 +596,28 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/哔嘀影视[优].js"
+		},
+		{
+			"key": "hipy_js_我的哔哩[官]1",
+			"name": "哔哩大全[官](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 1,
+			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
+		},
+		{
+			"key": "hipy_js_我的哔哩[官]0",
+			"name": "哔哩教育[官](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=../json/小学教育.json"
 		},
 		{
 			"key": "hipy_js_哔哩直播[官]",
@@ -1058,6 +1091,17 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/多多追剧[优].js"
+		},
+		{
+			"key": "hipy_js_番号资源[密]",
+			"name": "番号资源[密](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/番号资源[密].js"
 		},
 		{
 			"key": "hipy_js_番茄小说[书]",
@@ -2260,6 +2304,17 @@
 			"ext": "./drpy_js/三集电影[自动].js"
 		},
 		{
+			"key": "hipy_js_色库[密]",
+			"name": "色库[密](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/色库[密].js"
+		},
+		{
 			"key": "hipy_js_闪雷电",
 			"name": "闪雷电(drpy_t3)",
 			"type": 3,
@@ -2645,28 +2700,6 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/我播.js"
-		},
-		{
-			"key": "hipy_js_我的哔哩[官]",
-			"name": "我的哔哩[官](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/我的哔哩[官].js"
-		},
-		{
-			"key": "hipy_js_我的哔哩传参[官]",
-			"name": "我的哔哩传参[官](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/我的哔哩传参[官].js?type=url&params=../json/小学教育.json"
 		},
 		{
 			"key": "PushShare",
@@ -3073,6 +3106,28 @@
 			"ext": "./drpy_js/一起看[优].js"
 		},
 		{
+			"key": "hipy_js_一曲肝肠断",
+			"name": "一曲肝肠断(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/一曲肝肠断.js"
+		},
+		{
+			"key": "hipy_js_一支穿云箭",
+			"name": "一支穿云箭(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/一支穿云箭.js"
+		},
+		{
 			"key": "hipy_js_易点看影院[自动]",
 			"name": "易点看影院[自动](drpy_t3)",
 			"type": 3,
@@ -3398,6 +3453,17 @@
 			"ext": "./drpy_js/至臻[盘].js"
 		},
 		{
+			"key": "hipy_js_中华听书网[听]",
+			"name": "中华听书网[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/中华听书网[听].js"
+		},
+		{
 			"key": "hipy_js_追剧兔",
 			"name": "追剧兔(drpy_t3)",
 			"type": 3,
@@ -3484,6 +3550,17 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/bilfun(自动).js"
+		},
+		{
+			"key": "hipy_js_cally66",
+			"name": "cally66(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/cally66.js"
 		},
 		{
 			"key": "hipy_js_freeok",
