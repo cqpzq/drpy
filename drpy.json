@@ -279,6 +279,17 @@
             "ext":"./drpy_js/策驰影院(自动).js"
         },
         {
+			"key": "hipy_js_低端",
+			"name": "低端(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/低端.js"
+		},
+        {
             "key":"hipy_js_大师兄影视[优]",
             "name":"大师兄影视[优](drpy_t3)",
             "type":3,
@@ -288,17 +299,6 @@
             "filterable":1,
             "order_num":0,
             "ext":"./drpy_js/大师兄影视[优].js"
-        },
-        {
-            "key":"hipy_js_毒蛇电影[优]",
-            "name":"毒蛇电影[优](drpy_t3)",
-            "type":3,
-            "api":"./drpy_libs/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "order_num":0,
-            "ext":"./drpy_js/毒蛇电影[优].js"
         },
         {
             "key":"hipy_js_短剧天堂",
@@ -343,28 +343,6 @@
             "filterable":1,
             "order_num":0,
             "ext":"./drpy_js/七年影视.js"
-        },
-        {
-            "key":"hipy_js_七色番[漫]",
-            "name":"七色番[漫](drpy_t3)",
-            "type":3,
-            "api":"./drpy_libs/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "order_num":0,
-            "ext":"./drpy_js/七色番[漫].js"
-        },
-        {
-            "key":"hipy_js_时光影院",
-            "name":"时光影院(drpy_t3)",
-            "type":3,
-            "api":"./drpy_libs/drpy2.min.js",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "order_num":0,
-            "ext":"./drpy_js/时光影院.js"
         },
         {
             "key":"hipy_js_天龙影院",
