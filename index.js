@@ -14,7 +14,7 @@ function naturalSort(arr, key) {
 }
 
 async function main() {
-    let js_order = ['360影视[官]', '菜狗[官]', '奇珍异兽[官]', '优酷[官]', '腾云驾雾[官]', '百忙无果[官]', '哔哩影视[官]', '采集之王[合]', '采集之王[合|密]'];
+    let js_order = ['360影视[官]', '菜狗[官]', '奇珍异兽[官]', '优酷[官]', '腾云驾雾[官]', '百忙无果[官]', '哔哩影视[官]', '哔哩教育[官]', '哔哩大全[官]', '采王道长[合]', '采王zy[密]'];
     let js_path = './drpy_js';
     let live_path = './lives';
     let config_path = './custom.json';
@@ -158,7 +158,7 @@ async function main() {
         let extras = [''];
         if (rname.includes('我的哔哩[官]')) {
             extras = [
-                '?type=url&params=../json/小学教育.json@哔哩教育[官]',
+                '?type=url&params=../json/哔哩教育.json@哔哩教育[官]',
                 '?type=url&params=../json/哔哩大全.json@哔哩大全[官]',
             ];
         } else if (rname.includes('采集之王')) {
