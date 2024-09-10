@@ -57,6 +57,17 @@
 			"ext": "./drpy_js/两个BT.js"
 		},
 		{
+			"key": "hipy_js_厂长资源",
+			"name": "厂长资源(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/drpy2_厂长资源.js"
+		},
+		{
 			"key": "hipy_js_干饭影视",
 			"name": "干饭影视(drpy_t3)",
 			"type": 3,
